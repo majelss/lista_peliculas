@@ -1,0 +1,15 @@
+print("BIENVENIDOA A TU TIENDA FAVORITA")
+print("=================================")
+print("1.-lista de peliclas 2.-agregarlas")
+print("3.-modificarlas      4.-borrarlas\n5.-salir")
+opcion=input("¿que quieres ver?\n-->")
+if opcion=='1':
+    print("===lista de pelis===\n==elija con sabiduria==")
+    print("1.-el señor de los anillos  2.-harry poter")
+    print("3.-expreso polar            4.-tren a busan")
+    print("5.-mi pobre angelito        6.-salir")
+elif opcion=='2':
+    print("===agrega lo disponible===\n==elija con sabiduria==")
+    print("1.-el señor de los anillos  2.-harry poter")
+    print("3.-expreso polar            4.-tren a busan")
+    print("5.-mi pobre angelito")
